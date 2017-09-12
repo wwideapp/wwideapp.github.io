@@ -1,5 +1,5 @@
 permalink: /:categories/:title.html
-url: "https://wwideapp.github.io/"
+# url: "https://wwideapp.github.io/"
 full_name: "Cool App"
 first_name: "Cool"
 last_name: "App"
