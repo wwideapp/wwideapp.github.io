@@ -45,4 +45,4 @@ VUE offers you an excellent opportunity to create cinematic videos as easy as to
 - Full-screen vertical video supported  
 
 ### Get it in the App Store 
-[VUE - video editor & movie maker](https://itunes.apple.com/US/app/id1114690993?mt=8)
+[VUE - video editor & movie maker](https://itunes.apple.com/US/app/id1114690993?mt=8&at=1010lGvV&ct=www)
