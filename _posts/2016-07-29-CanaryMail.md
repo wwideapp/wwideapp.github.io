@@ -51,4 +51,4 @@ Canary is incredibly secure and offers PGP encryption out of the box. To simplif
 ### Get it in the App Store 
 [Canary Mail - Encrypted Email][1]
 
-[1]:https://itunes.apple.com/US/app/id1155470386?mt=8&at=1010lGvV&ct=A0W
+[1]:https://itunes.apple.com/US/app/id1155470386?mt=8&at=11lGBA&ct=IS_R5

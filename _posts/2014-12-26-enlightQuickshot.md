@@ -42,4 +42,4 @@ Enlight Quickshot will make you fall in love with mobile photography. Here to co
 ### Get it in the App Store 
 [Enlight Quickshot: The only camera app you'll ever need][1]
 
-[1]:https://itunes.apple.com/US/app/id1254875992?mt=8&at=1010lGvV&ct=A0W
+[1]:https://itunes.apple.com/US/app/id1254875992?mt=8&at=11lGBA&ct=IS_R5
